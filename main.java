@@ -4,8 +4,5 @@ public class main {
         System.out.println("Hello Coder");
     }
 
-    public function Coder(){
-
-        
-    }
+    
 }
